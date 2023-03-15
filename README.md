@@ -1,0 +1,3 @@
+### Colon-Cancer-Detection-System-Based-on-Sliding-Chip--Engineering Application Part
+
+This is a code repository designed as part of the project for the 2021 International Genetically Engineered Machine (IGEM) competition, which includes the core parts of the software and hardware used in the application section: the **design of the sliding chip** and its accompanying **hardware structure**, as well as a **WeChat Mini Program** used for convenient control. The WeChat Mini Program was primarily developed using WeChat Developer Tools, while the hardware structure was modeled in 3D using SolidWorks. The mini program can be connected to the photodetectors on the sliding chip via Bluetooth network, providing real-time visual test results to the user. 
